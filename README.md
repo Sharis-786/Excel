@@ -14,8 +14,7 @@ If you like playing around Excel as much as I do, then peek in. When it comes to
 9. Sorting, filtering
 10. VBA and Macros (not required for data analysis)
 
-<h3> Steps to follow before jumping to build Dashboard: </h3>
-Create 4-5 sheets in 1 workbook, namely: Raw Data, Modified Data, Assets, Calculations, Dashboard
+
 <h4> Definitions </h4>
 <strong>Raw Data</strong>: This sheet will contain your original data. Don't make any changes to this sheet. <br>
 <strong>Modified Data</strong>: Here, clean your data, modify it as per your requirement for analysis. <br>
